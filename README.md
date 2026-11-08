@@ -69,11 +69,11 @@ The project contains 11 SQL analyses:
 ## 🔍 Key Findings
 
 - **Total orders:** 21,350
-- **Total revenue:** [Add your query result]
-- **Most ordered pizza size:** [Add your query result]
-- **Most ordered pizza type:** [Add your query result]
-- **Top revenue-generating pizza:** [Add your query result]
-- **Busiest ordering hour/day:** [Add your query result]
+- **Total revenue:** 8,17,860
+- **Most ordered pizza size:** L
+- **Most ordered pizza type:** The classic deluxe pizza
+- **Top revenue-generating pizza:** The Thai chicken pizza
+- **Busiest ordering hour/day:** 11
 
 ## 📈 Business Value
 
